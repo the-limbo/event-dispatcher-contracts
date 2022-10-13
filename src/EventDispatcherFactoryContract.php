@@ -17,9 +17,9 @@ use Limbo\Contracts\Factory\FactoryContract;
  * Interface EventDispatcherFactoryContract
  *
  * @package   Limbo\Contracts\EventDispatcher
- * @author    dr0n1k <a.dronov4job@yandex.ru>
- * @copyright TheLimbo 2022
+ * @author    dr0n1k  <a.dronov4job@yandex.ru>
  * @license   MIT
+ * @copyright TheLimbo (c) 2022
  */
 interface EventDispatcherFactoryContract extends FactoryContract
 {

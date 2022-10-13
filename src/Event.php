@@ -16,10 +16,10 @@ namespace Limbo\Contracts\EventDispatcher;
  *
  * @package   Limbo\Contracts\EventDispatcher
  * @author    dr0n1k <a.dronov4job@yandex.ru>
- * @copyright TheLimbo 2022
  * @license   MIT
+ * @copyright TheLimbo (c) 2022
  */
-class Event implements EventContract
+abstract class Event implements EventContract
 {
     /**
      * Event name.
